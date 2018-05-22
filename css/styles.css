@@ -1,0 +1,28 @@
+body {
+  background-color: RebeccaPurple;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: Peachpuff;
+
+}
+a {
+color: peachpuff;
+}
+img {
+  border-radius: 1000px;
+
+}
+
+#tiki img{
+
+    width:  400px;
+    height: 400px;
+    /*background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;*/
+}
