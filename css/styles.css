@@ -1,0 +1,14 @@
+body {
+  background-color: lemonchiffon;
+  font-family: sans-serif;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  border-radius: 100px;
+}
+
+h2 {
+  font-style: italic;
+}
