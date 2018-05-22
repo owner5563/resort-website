@@ -2,7 +2,7 @@
 
 ### _Practicing more HTML from first lesson for a dummy page, with added branched CSS stylesheets to familiarize ourselves with GitHub and terminal, too_
 
-### _and did so by making branches off the master after HTML bases were all done, only playing with the single .css file afterwards.
+### _and did so by making branches off the master after HTML bases were all done, only playing with the single .css file afterwards._
 
 #### _**Pairing Kyle P. & David N.**_
 
